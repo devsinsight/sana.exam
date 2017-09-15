@@ -1,0 +1,11 @@
+C:\Projects\sana\sana.solution\sana.webshop.web\bin\Debug\netcoreapp2.0\sana.webshop.web.deps.json
+C:\Projects\sana\sana.solution\sana.webshop.web\bin\Debug\netcoreapp2.0\sana.webshop.web.runtimeconfig.json
+C:\Projects\sana\sana.solution\sana.webshop.web\bin\Debug\netcoreapp2.0\sana.webshop.web.runtimeconfig.dev.json
+C:\Projects\sana\sana.solution\sana.webshop.web\bin\Debug\netcoreapp2.0\sana.webshop.web.dll
+C:\Projects\sana\sana.solution\sana.webshop.web\bin\Debug\netcoreapp2.0\sana.webshop.web.pdb
+C:\Projects\sana\sana.solution\sana.webshop.web\obj\Debug\netcoreapp2.0\sana.webshop.web.csproj.CoreCompileInputs.cache
+C:\Projects\sana\sana.solution\sana.webshop.web\obj\Debug\netcoreapp2.0\sana.webshop.web.AssemblyInfoInputs.cache
+C:\Projects\sana\sana.solution\sana.webshop.web\obj\Debug\netcoreapp2.0\sana.webshop.web.AssemblyInfo.cs
+C:\Projects\sana\sana.solution\sana.webshop.web\obj\Debug\netcoreapp2.0\sana.webshop.web.dll
+C:\Projects\sana\sana.solution\sana.webshop.web\obj\Debug\netcoreapp2.0\sana.webshop.web.pdb
+C:\Projects\sana\sana.solution\sana.webshop.web\obj\Debug\netcoreapp2.0\sana.webshop.web.csprojResolveAssemblyReference.cache
